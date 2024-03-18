@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Jean",
+    "age": 30,
+    "city": "Paris",
+    "profession": "Developpeur",
+    "mail": "Jean@gmail.com"
+  },
+  {
+    "name": "Marie",
+    "age": 25,
+    "city": "Lyon",
+    "profession": "Architecte",
+    "mail": "Marie@gmail.com"
+  },
+  {
+    "name": "Alice",
+    "age": 35,
+    "city": "Marseille",
+    "profession": "Ingénieur",
+    "mail": "Alice@gmail.com"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "question": "Quel est la capitale de la France ?",
+    "answers": ["Paris", "Londres", "Berlin", "Madrid"],
+    "correctAnswer": "Paris",
+    "difficulty": "Facile",
+    "category": "Géographie"
+  },
+  {
+    "question": "Qui a peint la Joconde ?",
+    "answers": ["Leonardo da Vinci", "Pablo Picasso", "Vincent van Gogh", "Claude Monet"],
+    "correctAnswer": "Leonardo da Vinci",
+    "difficulty": "Facile",
+    "category": "Art"
+  },
+  {
+    "question": "Quelle est la planète la plus proche du soleil ?",
+    "answers": ["Vénus", "Mars", "Mercure", "Jupiter"],
+    "correctAnswer": "Mercure",
+    "difficulty": "Moyenne",
+    "category": "Astronomie"
+  },
+  {
+    "question": "Quel est le symbole chimique de l'or ?",
+    "answers": ["Au", "Ag", "Fe", "Cu"],
+    "correctAnswer": "Au",
+    "difficulty": "Moyenne",
+    "category": "Chimie"
+  },
+  {
+    "question": "Quel est le plus grand océan du monde ?",
+    "answers": ["Océan Atlantique", "Océan Arctique", "Océan Indien", "Océan Pacifique"],
+    "correctAnswer": "Océan Pacifique",
+    "difficulty": "Difficile",
+    "category": "Géographie"
+  },
+  {
+    "question": "Que signifie Homo Erectus ?",
+    "answers": ["Homme droit", "Homme habile", "Homme malin", "Homme du feu"],
+    "correctAnswer": "Homme droit",
+    "difficulty": "Difficile",
+    "category": "Histoire"
+  }
+]
