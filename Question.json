@@ -1,44 +1,227 @@
 [
   {
     "question": "Quel est la capitale de la France ?",
-    "answers": ["Paris", "Londres", "Berlin", "Madrid"],
-    "correctAnswer": "Paris",
-    "difficulty": "Facile",
-    "category": "Géographie"
+    "reponse": ["A. Paris", "B. Londres", "C. Berlin", "D. Madrid"],
+    "reponseCorrecte": "A",
+    "difficulte": "Facile",
+    "categorie": "Géographie"
   },
+  
+  {
+    "question": "Quel est le plus grand pays du monde ?",
+    "reponse": ["A. Inde", "B. Chine", "C. Russie ", "D. Amérique du Sud"],
+    "reponseCorrecte": "C",
+    "difficulte": "Facile",
+    "categorie": "Géographie"
+  },
+  
+  {
+    "question": "En quelle année Christophe Colomb a-t-il découvert l'Amérique ?",
+    "reponse": ["A. 1495", "B. 1493", "C. 1494", "D. 1492"],
+    "reponseCorrecte": "D",
+    "difficulte": "Facile",
+    "categorie": "Histoire"
+  },
+
+  {
+    "question": "Qui était le premier empereur romain ? ",
+    "reponse": [ "A. Auguste", "B. Tibère", "C. Marc-Antoine", "D. Jules-César"],
+    "reponseCorrecte": "B",
+    "difficulte": "Facile",
+    "categorie": "Histoire"
+  },
+
+  {
+    "question": "Quelle célèbre marque de mode italienne est connue pour ses sacs à main et ses accessoires de luxe ?",
+    "reponse": ["A. Versace", "B. Gucci", "C. Louis Vuitton", "D. Dolce & Gabbana"],
+    "reponseCorrecte": "B",
+    "difficulte": "Facile",
+    "categorie": "Mode"
+  },
+
+  {
+      "question": "Quelle ville est souvent considérée comme la capitale mondiale de la mode ?",
+      "reponse": ["A. Milan", "B. Londres", "C. New York", "D. Paris"],
+      "reponseCorrecte": "D",
+      "difficulte": "Facile",
+      "categorie": "Mode"
+  },
+
   {
     "question": "Qui a peint la Joconde ?",
-    "answers": ["Leonardo da Vinci", "Pablo Picasso", "Vincent van Gogh", "Claude Monet"],
-    "correctAnswer": "Leonardo da Vinci",
-    "difficulty": "Facile",
-    "category": "Art"
+    "reponse": ["A. Leonardo da Vinci", "B. Pablo Picasso", "C. Vincent van Gogh", "D. Claude Monet"],
+    "reponseCorrecte": "A",
+    "difficulte": "Facile",
+    "categorie": "Art"
   },
+
   {
-    "question": "Quelle est la planète la plus proche du soleil ?",
-    "answers": ["Vénus", "Mars", "Mercure", "Jupiter"],
-    "correctAnswer": "Mercure",
-    "difficulty": "Moyenne",
-    "category": "Astronomie"
+      "question": "Qui a peint la célèbre œuvre 'La Nuit Étoilée' ?",
+      "reponse": ["A. Pablo Picasso ","B. Vincent van Gogh", "C. Leonardo da Vinci", "D. Claude Monet"],
+      "reponseCorrecte": "B",
+      "difficulte": "Facile",
+      "categorie": "Art"
   },
+  
+  {
+      "question": "Quelle est la formule chimique de l'eau ?",
+      "reponse": ["A. HCl", "B. CO2", "C. NaCl", "D. H2O"],
+      "reponseCorrecte": "D",
+      "difficulte": "Facile",
+      "categorie": "Science"
+  },
+
+  {
+      "question": "Quelle est le noyau de l'atome composé de protons et neutrons ?",
+      "reponse": ["A. Le noyau nucléaire", "B. Le noyau", "C. Le noyau atome", "D. Le noyau atomique"],
+      "reponseCorrecte": "C",
+      "difficulte": "Facile",
+      "categorie": "Science"
+    
+  },
+  
+  {
+      "question": "Quelle est la plus petite particule constitutive de la matière ?",
+      "reponse": ["A. Atome", "B. Proton", "C. Électron","D. Neutron"],
+      "reponseCorrecte": "A",
+      "difficulte": "Moyen",
+      "categorie": "Science"
+  },
+
   {
     "question": "Quel est le symbole chimique de l'or ?",
-    "answers": ["Au", "Ag", "Fe", "Cu"],
-    "correctAnswer": "Au",
-    "difficulty": "Moyenne",
-    "category": "Chimie"
+    "reponse": ["A. Au", "B. Ag", "C. Fe", "D. Cu"],
+    "reponseCorrecte": "A",
+    "difficulte": "Moyen",
+    "categorie": "Chimie"
   },
+
+  {
+      "question": "Quelle est la signification de l'animal souvent représenté dans les peintures de Frida Kahlo ?",
+      "reponse": ["A. La force et la puissance", "B. La fragilité et la vulnérabilité", "C. L'amour et la passion","D. La liberté et l'indépendance" ],
+      "reponseCorrecte": "B",
+      "difficulte": "Moyen",
+      "categorie": "Art"
+  },
+  
+  {
+    "question": "Quel est l'os le plus petit du corps humain ?",
+    "reponse": ["A. La Rotule ", "B. L'étrier ", "C. Le fémur", "D. Le cubitus"],
+    "reponseCorrecte": "B",
+    "difficulte": "Moyen",
+    "categorie": "Anatomie"
+  },
+
+
+  {
+    "question": "Quelle est la planète la plus proche du soleil ?",
+    "reponse": ["A. Vénus", "B. Mars", "C. Mercure", "D. Jupiter"],
+    "reponseCorrecte": "C",
+    "difficulte": "Moyen",
+    "categorie": "Astronomie"
+  },
+
+  {
+      "question": "Quelle est la langue officielle du Brésil ?",
+      "reponse": ["A. L'espagnol", "B. Le français", "C. Le portugais", "D. L'anglais"],
+      "reponseCorrecte": "C",
+      "difficulte": "Moyen",
+      "categorie": "Langues"
+  },
+
+  {
+      "question": "Quel légume est utilisé pour préparer la ratatouille ?",
+      "reponse": ["A. Tomate", "B. Courgette", "C. Carotte", "D. Pomme de terre"],
+      "reponseCorrecte": "B",
+      "difficulte": "Moyen",
+      "categorie": "Cuisine"
+  },
+
+  {
+      "question": "Quel jeu de société consiste à créer des mots avec des lettres sur un plateau de jeu ?",
+      "reponse": ["A. Monopoly", "B. Scrabble", "C. Puissance 4", "D. Uno"],
+      "reponseCorrecte": "B",
+      "difficulte": "Moyen",
+      "categorie": "Jeux"
+  },
+
+  {
+      "question": "Quel est l'élément le plus abondant dans l'univers ?",
+      "reponse": ["A. Hydrogène", "B. Hélium", "C. Carbone", "D. Azote"],
+      "reponseCorrecte": "A",
+      "difficulte": "Moyen",
+      "categorie": "Sciences"
+  },
+  
+  {
+      "question": "Qui était le premier président de la République française ?",
+      "reponse": ["A. Charles de Gaulle", "B. Georges Pompidou", "C. Vincent Auriol", "D. Louis-Napoléon Bonaparte"],
+      "reponseCorrecte": "D",
+      "difficulte": "Difficile",
+      "categorie": "Politique"
+  },
+
+  {
+      "question": "Quelle est la plus grande île du monde en superficie ?",
+      "reponse": ["A. Madagascar", "B. Groenland", "C. Bornéo", "D. Nouvelle-Guinée"],
+      "reponseCorrecte": "B",
+      "difficulte": "Difficile",
+      "categorie": "Géographie"
+  },
+
+  {
+      "question": "Quel philosophe grec est considéré comme le père de la philosophie occidentale et a été le maître de Platon ?",
+      "reponse": ["A. Socrate", "B. Aristote", "C. Pythagore", "D. Héraclite"],
+      "reponseCorrecte": "A",
+      "difficulte": "Difficile",
+      "categorie": "Philosophie"
+  },
+  
   {
     "question": "Quel est le plus grand océan du monde ?",
-    "answers": ["Océan Atlantique", "Océan Arctique", "Océan Indien", "Océan Pacifique"],
-    "correctAnswer": "Océan Pacifique",
-    "difficulty": "Difficile",
-    "category": "Géographie"
+    "reponse": ["A. Océan Atlantique", "B. Océan Arctique", "C. Océan Indien", "D. Océan Pacifique"],
+    "reponseCorrecte": "D",
+    "difficulte": "Difficile",
+    "categorie": "Géographie"
   },
+  
   {
     "question": "Que signifie Homo Erectus ?",
-    "answers": ["Homme droit", "Homme habile", "Homme malin", "Homme du feu"],
-    "correctAnswer": "Homme droit",
-    "difficulty": "Difficile",
-    "category": "Histoire"
+    "reponse": ["A. Homme droit", "B. Homme habile", "C. Homme malin", "D.Homme du feu"],
+    "reponseCorrecte": "A",
+    "difficulte": "Difficile",
+    "categorie": "Histoire"
+  },
+
+  {
+    "question": "Quel est l'os le plus petit du corps humain ?",
+    "reponse": ["A. La Rotule ", "B. L'étrier ", "C. Le fémur", "D. Le cubitus"],
+    "reponseCorrecte": "B",
+    "difficulte": "Difficile",
+    "categorie": "Anatomie"
+  },
+
+  {
+      "question": "Quel réalisateur a dirigé le film 'La Liste de Schindler' ?",
+      "reponse": ["A. Steven Spielberg", "B. Martin Scorsese", "C. Quentin Tarantino", "D. Alfred Hitchcock"],
+      "reponseCorrecte": "A",
+      "difficulte": "Difficile",
+      "categorie": "Cinéma"
+  },
+  
+  {
+      "question": "Qui est l'architecte français qui a conçu la statue de la Liberté à New York ?",
+      "reponse": ["A. Gustave Eiffel", "B. Charles Garnier", "C. Alexandre Gustave Eiffel", "D. Auguste Bartholdi"],
+      "reponseCorrecte": "D",
+      "difficulte": "Difficile",
+      "categorie": "Art"
+  },
+  
+  {
+      "question": "Quelle est la plus haute montagne d'Afrique ?",
+      "reponse": ["A. Le Kilimandjaro", "B. Le mont Kenya", "C. Le mont Ruwenzori", "D. Le mont Elgon"],
+      "reponseCorrecte": "A",
+      "difficulte": "Difficile",
+      "categorie": "Géographie"
   }
 ]
