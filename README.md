@@ -9,7 +9,7 @@ Ce jeu de Quiz en Swift permet aux joueurs de répondre à des questions dans di
 
 ## Démarrage du Jeu
 
-1. Ouvrez
+1. Ouvrez visual studio code 
 2. Exécutez le programme en utilisant le terminal visual studio code ./main.
 
 ## Comment jouer 
